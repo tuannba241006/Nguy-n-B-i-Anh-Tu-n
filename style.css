@@ -1,0 +1,43 @@
+/* Phần Giới thiệu bản thân */
+.gioi-thieu {
+    background-color: #F3FDE8;
+}
+
+/* Phần Gửi thông tin và giao lưu */
+.lien-he {
+    background-image: url("background.jpg");
+    background-repeat: repeat;
+    text-align: center;
+}
+
+/* Định dạng các tiêu đề */
+h1, h2, h3, h4 {
+    font-size: 24px;
+    -webkit-text-stroke: 1px black;
+}
+
+/* Định dạng bảng */
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+/* Menu */
+nav {
+    background-color: #d4f2f4;
+    color: #0b0848;
+}
+
+/* Các liên kết trong menu */
+nav a {
+    color: #0b0848;
+}
+
+/* Footer */
+footer {
+    background-color: #d4f2f4;
+    color: #0b0848;
+}
